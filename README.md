@@ -1,5 +1,5 @@
 # BitBot v.1 🤖📈💲
-![cover]()
+![cover](./cover.png)
 ![appCover](./bitBot.gif)
 <br />
 ![](https://img.shields.io/badge/BitBot%20Page-Node-green) ![](https://img.shields.io/badge/Scrapper-Pupperteer-blue)
